@@ -1,4 +1,4 @@
-# 💰 Income Prediction Model: Census Data Classification
+# Income Prediction Model: Census Data Classification
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
@@ -21,7 +21,7 @@ A machine learning project that predicts whether an individual's annual income e
 
 ---
 
-## 🎯 Key Features
+## Key Features
 
 - **Robust preprocessing pipeline** handling missing values and high-cardinality categorical features
 - **Feature engineering** with strategic grouping to reduce overfitting
@@ -58,7 +58,7 @@ The project uses census data with the following features:
 
 ---
 
-## 🔧 Installation & Requirements
+##  Installation & Requirements
 
 ### Prerequisites
 
@@ -205,7 +205,7 @@ Given the 3:1 class ratio, the model was configured to prioritize recall on the 
 
 ---
 
-## 🧠 Feature Importance
+## Feature Importance
 
 The Random Forest model identified the following as the most influential predictors:
 
@@ -219,7 +219,7 @@ The Random Forest model identified the following as the most influential predict
 
 ---
 
-## 💼 Business Application
+## Business Application
 
 ### Use Case: Premium Credit Card Marketing Campaign
 
@@ -266,7 +266,7 @@ income-prediction-model/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - **Hyperparameter Tuning:** Grid search for optimal `max_features` and `min_samples_leaf`
 - **Advanced Models:** Test XGBoost, LightGBM for potential performance gains
