@@ -287,7 +287,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Paloma Perez Valdenegro**
 
 - GitHub: [@palomaperezv](https://github.com/palomaperezv)
-- LinkedIn: [Paloma Perez V.](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Paloma Perez V.](https://www.linkedin.com/in/paloma-perez-valdenegro-27a2621a5/)
 - Email: palomprz@gmail.com
 
 ---
@@ -305,6 +305,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [Random Forest Classifier Guide](https://scikit-learn.org/stable/modules/ensemble.html#forest)
 - [Handling Imbalanced Datasets](https://imbalanced-learn.org/)
+- [Dimensionality Reduction](https://gayathri-siva.medium.com/dimensionality-reduction-feature-selection-and-feature-extraction-28c732818e96)
 
 ---
 
